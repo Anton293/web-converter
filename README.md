@@ -4,7 +4,7 @@
 
 Цей репозиторій створени для можливості залишити issues.
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://harkushyn.com/external/preview-head-page)
 
 Посилання на веб-сторінку: [https://harkushyn.com/](https://harkushyn.com/)
 
